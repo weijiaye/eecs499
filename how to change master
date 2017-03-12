@@ -1,2 +1,3 @@
  git remote add -f eecs499 https://github.com/weijiaye/eecs499.git
  git remote
+ git remote re [name]

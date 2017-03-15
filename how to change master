@@ -10,3 +10,5 @@
  //how to add remotename
  git remote add [remotename] [url]
  git push --help
+// how to open the work tree
+ gitk

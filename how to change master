@@ -1,4 +1,9 @@
- git remote add -f eecs499 https://github.com/weijiaye/eecs499.git
+ git remote -v //can check local branch and remote branch
  git remote
  git remote rm [name]
+ 
+ 
+ 
+ 
+ //how to add origin name
  git remote add origin url
